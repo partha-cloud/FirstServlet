@@ -1,4 +1,4 @@
-package com.firstservlet;
+package com.firstservletproject;
 
 
 import javax.servlet.ServletException;
