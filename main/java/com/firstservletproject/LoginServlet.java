@@ -5,8 +5,8 @@ public class LoginServlet {
             description = "Login Servlet Testing",
             urlPatterns = { "/LoginServlet" },
             initParams = {
-                    @WebInitParam(name = "user", value = "Akash"),
-                    @WebInitParam(name = "password", value = "akash14@gmail")
+                    @WebInitParam(name = "user", value = "Partha"),
+                    @WebInitParam(name = "password", value = "Partha11@gmail.com")
             }
     )
 
